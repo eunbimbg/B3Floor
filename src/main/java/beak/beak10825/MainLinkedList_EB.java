@@ -1,6 +1,6 @@
 package beak.beak10825;
 
-public class MainLinkedList {
+public class MainLinkedList_EB {
     public static Node head = null;
     public static Node tail = null;
 

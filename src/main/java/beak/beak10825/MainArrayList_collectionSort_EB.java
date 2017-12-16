@@ -1,7 +1,7 @@
 package beak.beak10825;
 
 
-public class MainArrayList_collectionSort {
+public class MainArrayList_collectionSort_EB {
 
     public static void main(String[] args) throws Exception {
         //java.util.List<Node> nodeVOList = new java.util.ArrayList<Node>();

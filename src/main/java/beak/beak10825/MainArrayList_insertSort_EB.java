@@ -1,6 +1,6 @@
 package beak.beak10825;
 
-public class MainArrayList_insertSort {
+public class MainArrayList_insertSort_EB {
 
     public static void main(String[] args) throws Exception{
         java.util.List<Node> nodeVOList = new java.util.ArrayList<Node>();

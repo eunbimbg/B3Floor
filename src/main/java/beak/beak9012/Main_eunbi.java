@@ -1,6 +1,6 @@
 package beak.beak9012;
 
-public class Main {
+public class Main_eunbi {
     public static void main(String[] args) {
         String data = "(())())\n" +
                 "(((()())()\n" +

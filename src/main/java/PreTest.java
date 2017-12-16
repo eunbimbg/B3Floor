@@ -1,7 +1,7 @@
 // 값은 args로 받는다.
 // 잘못된 값이 입력되면 Insert right number 를 출력하고 종료한다. (ex) 한글, 값의 범위 이외의 수, 정수 외의 수 등
 /**
- * Created by eunbi on 2017-12-02.
+ * Created by rounting_eunbi on 2017-12-02.
  */
 public class PreTest {
     public static void main(String[] args) {

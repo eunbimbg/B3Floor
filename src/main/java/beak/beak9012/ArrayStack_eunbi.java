@@ -3,12 +3,12 @@ package beak.beak9012;
 /**
  * Created by mobizen on 2017-11-29.
  */
-public class ArrayStack {
+public class ArrayStack_eunbi {
     private int top;
     private int maxSize;
     private String[] array;
 
-    public ArrayStack(int maxSize) {
+    public ArrayStack_eunbi(int maxSize) {
         this.top = -1;
         this.maxSize = maxSize;
         this.array = new String[maxSize];

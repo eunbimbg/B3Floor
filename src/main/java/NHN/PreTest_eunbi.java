@@ -1,9 +1,9 @@
 package NHN;
 
 /**
- * Created by eunbi on 2017-12-02.
+ * Created by rounting_eunbi on 2017-12-02.
  */
-public class PreTest {
+public class PreTest_eunbi {
     public static void main(String[] args) {
 
         String[] unit = {"", "십", "백", "천", "만"};
