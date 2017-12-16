@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * Created by mobizen on 2017-12-04.
  */
-public class Quantization1 {
+public class Quantization1_eunbi {
     /**
      * 력의 첫 줄에는 테스트 케이스의 수 C (1 <= C <= 50) 가 주어진다.
      * 각 테스트 케이스의 첫 줄에는 수열의 길이 N (1 <= N <= 100), 사용할 숫자의 수 S (1 <= S <= 10) 이 주어진다.

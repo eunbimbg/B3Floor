@@ -1,9 +1,9 @@
 package algoSpot.NQueen;
 
 /**
- * Created by eunbi on 2017-12-04.
+ * Created by rounting_eunbi on 2017-12-04.
  */
-public class NQueenBackTracking3 {
+public class NQueenBackTracking3_eunbi {
     public static int sum = 0;
 
     /*
