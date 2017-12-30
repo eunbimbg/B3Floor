@@ -86,6 +86,7 @@ public class Minesweeper_eunbi {
 
             int num = Integer.parseInt(value);
 
+            //0이면 clear
             if(num == 0) {
                 clearBomb(readMap.get("#"));
                 return true;
@@ -93,6 +94,7 @@ public class Minesweeper_eunbi {
             int bomb = readMap.get("*").size();
             int nullNum = readMap.get("#").size();
 
+            // 폭탄
             if(num == bomb) {
                 clearBomb(readMap.get("#"));
                 return true;
