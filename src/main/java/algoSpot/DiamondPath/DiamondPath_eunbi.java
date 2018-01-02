@@ -1,7 +1,7 @@
 package algoSpot.DiamondPath;
 
 /**
- * Created by rounting_eunbi on 2017-12-11.
+ * Created by Rounting_eunbi on 2017-12-11.
  * 입력의 첫 줄에는 테스트 케이스의 수 C (1 <= C <= 100) 가 주어진다.
  * 각 테스트 케이스의 첫 줄에는 다이아몬드 가운데 줄의 가로 길이 N (1 <= N <= 100) 이 주어진다.
  * 그 후 2*N-1 줄에, 맨 윗 줄부터, 다이아몬드의 각 가로줄에 속한 숫자가 왼쪽부터 순서대로 주어진다.

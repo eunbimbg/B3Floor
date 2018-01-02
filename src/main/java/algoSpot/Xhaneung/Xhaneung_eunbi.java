@@ -2,7 +2,7 @@ package algoSpot.Xhaneung;
 
 
 /**
- * Created by rounting_eunbi on 2017-12-11.
+ * Created by Rounting_eunbi on 2017-12-11.
  * 입력의 첫 줄에는 채점을 해야 할 수식의 수 T가 입력된다. 각 수식은 한 줄에 입력되며 형식은 다음과 같다.
  * A operation B = C
  * 여기서 A, B, C는 영문 단어로 나타낸 수를 뜻하며, operation은 더하기(+), 빼기(-), 곱하기(*)가 들어온다.
