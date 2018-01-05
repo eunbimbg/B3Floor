@@ -1,4 +1,4 @@
-package beak.beak10825;
+package beak.beak10825_sort;
 
 public class MainLinkedList_EB {
     public static Node head = null;

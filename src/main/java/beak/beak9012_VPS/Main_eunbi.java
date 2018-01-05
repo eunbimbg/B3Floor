@@ -1,4 +1,4 @@
-package beak.beak9012;
+package beak.beak9012_VPS;
 
 public class Main_eunbi {
     public static void main(String[] args) {

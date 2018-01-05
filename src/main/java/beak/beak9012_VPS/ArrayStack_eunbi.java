@@ -1,4 +1,4 @@
-package beak.beak9012;
+package beak.beak9012_VPS;
 
 /**
  * Created by mobizen on 2017-11-29.

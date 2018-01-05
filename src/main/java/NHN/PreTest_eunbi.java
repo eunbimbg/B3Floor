@@ -1,7 +1,7 @@
 package NHN;
 
 /**
- * Created by rounting_eunbi on 2017-12-02.
+ * Created by Rounting_eunbi on 2017-12-02.
  */
 public class PreTest_eunbi {
     public static void main(String[] args) {

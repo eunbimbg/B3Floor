@@ -1,4 +1,4 @@
-package beak.beak10825;
+package beak.beak10825_sort;
 
 public class MainArrayList_insertSort_EB {
 

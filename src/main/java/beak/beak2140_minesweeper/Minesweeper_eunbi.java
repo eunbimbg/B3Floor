@@ -1,4 +1,4 @@
-package beak.beak2140;
+package beak.beak2140_minesweeper;
 
 import java.util.ArrayList;
 import java.util.HashMap;
