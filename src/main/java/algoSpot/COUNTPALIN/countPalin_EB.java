@@ -22,13 +22,10 @@ public class countPalin_EB {
         int count = Integer.parseInt(br.readLine());
         for (; count > 0; count--) {
             String line = br.readLine();
-
-
             String[] spl = line.split(" ");
 
             sb.append(palin(spl[1])).append('\n');
         }
-
         System.out.println(sb.toString());
         //palin("EWHSPSHAAHDAA");
     }
