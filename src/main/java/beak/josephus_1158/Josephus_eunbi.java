@@ -1,4 +1,4 @@
-package beak.baek1158_Josephus;
+package beak.josephus_1158;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -20,12 +20,10 @@ public class Josephus_eunbi  {
         int N = Integer.parseInt(spl[0]);
         int M = Integer.parseInt(spl[1]);
 
-        sb.append("<");
         insert(N);
         josephus(M);
 
- //       sb.append(">");
-        System.out.println(sb.substring(0, sb.length() - 2)+">");
+        System.out.println("<"+sb.substring(0, sb.length() - 2)+">");
 
     }
     public static void josephus(int num){

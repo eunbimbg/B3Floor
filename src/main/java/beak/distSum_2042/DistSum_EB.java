@@ -1,4 +1,4 @@
-package beak.baek2042_distSum;
+package beak.distSum_2042;
 
 /**
  * Created by eunbi on 2018-01-06.
